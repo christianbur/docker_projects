@@ -1,3 +1,3 @@
-Getmail has been moved
+A Python script to retrieve email via IMAP IDLE. 
 
 https://github.com/christianbur/getmail
